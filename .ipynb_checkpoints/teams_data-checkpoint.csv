@@ -1,0 +1,1081 @@
+team_id,name,code,logo,country,is_national,founded,venue_name,venue_surface,venue_address,venue_city,venue_capacity,year
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2010
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2010
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2010
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2010
+67,Blackburn,,https://media.api-sports.io/football/teams/67.png,England,FALSE,1875,Ewood Park,grass,Nuttall Street,"Blackburn, Lancashire",31367,2010
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2010
+61,Wigan,,https://media.api-sports.io/football/teams/61.png,England,FALSE,1932,DW Stadium,grass,"Robin Park, Loire Drive",Wigan,25138,2010
+1356,Blackpool,,https://media.api-sports.io/football/teams/1356.png,England,FALSE,1887,Bloomfield Road,grass,Seasiders Way,"Blackpool, Lancashire",17625,2010
+68,Bolton,,https://media.api-sports.io/football/teams/68.png,England,FALSE,1874,University of Bolton Stadium,grass,Burnden Way,Bolton,28723,2010
+36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,FALSE,1879,Craven Cottage,grass,Stevenage Road,London,25700,2010
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2010
+54,Birmingham,,https://media.api-sports.io/football/teams/54.png,England,FALSE,1875,St Andrew's Trillion Trophy Stadium,grass,St. Andrew&apos;s Road,Birmingham,30009,2010
+39,Wolves,,https://media.api-sports.io/football/teams/39.png,England,FALSE,1877,Molineux Stadium,grass,Waterloo Road,"Wolverhampton, West Midlands",32050,2010
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2010
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2010
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2010
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2010
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2010
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2010
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2010
+67,Blackburn,,https://media.api-sports.io/football/teams/67.png,England,FALSE,1875,Ewood Park,grass,Nuttall Street,"Blackburn, Lancashire",31367,2011
+39,Wolves,,https://media.api-sports.io/football/teams/39.png,England,FALSE,1877,Molineux Stadium,grass,Waterloo Road,"Wolverhampton, West Midlands",32050,2011
+36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,FALSE,1879,Craven Cottage,grass,Stevenage Road,London,25700,2011
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2011
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2011
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2011
+72,QPR,,https://media.api-sports.io/football/teams/72.png,England,FALSE,1885,Kiyan Prince Foundation Stadium,grass,"South Africa Road, Shepherd&apos;s Bush",London,18360,2011
+68,Bolton,,https://media.api-sports.io/football/teams/68.png,England,FALSE,1874,University of Bolton Stadium,grass,Burnden Way,Bolton,28723,2011
+61,Wigan,,https://media.api-sports.io/football/teams/61.png,England,FALSE,1932,DW Stadium,grass,"Robin Park, Loire Drive",Wigan,25138,2011
+71,Norwich,,https://media.api-sports.io/football/teams/71.png,England,FALSE,1902,Carrow Road,grass,Carrow Road,"Norwich, Norfolk",27244,2011
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2011
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2011
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2011
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2011
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2011
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2011
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2011
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2011
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2011
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2011
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2012
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2012
+36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,FALSE,1879,Craven Cottage,grass,Stevenage Road,London,25700,2012
+71,Norwich,,https://media.api-sports.io/football/teams/71.png,England,FALSE,1902,Carrow Road,grass,Carrow Road,"Norwich, Norfolk",27244,2012
+72,QPR,,https://media.api-sports.io/football/teams/72.png,England,FALSE,1885,Kiyan Prince Foundation Stadium,grass,"South Africa Road, Shepherd&apos;s Bush",London,18360,2012
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2012
+53,Reading,,https://media.api-sports.io/football/teams/53.png,England,FALSE,1871,Madejski Stadium,grass,"Shooters Way / Junction 11, M4","Reading, Berkshire",24200,2012
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2012
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2012
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2012
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2012
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2012
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2012
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2012
+61,Wigan,,https://media.api-sports.io/football/teams/61.png,England,FALSE,1932,DW Stadium,grass,"Robin Park, Loire Drive",Wigan,25138,2012
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2012
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2012
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2012
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2012
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2012
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2013
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2013
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2013
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2013
+71,Norwich,,https://media.api-sports.io/football/teams/71.png,England,FALSE,1902,Carrow Road,grass,Carrow Road,"Norwich, Norfolk",27244,2013
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2013
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2013
+36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,FALSE,1879,Craven Cottage,grass,Stevenage Road,London,25700,2013
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2013
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2013
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2013
+43,Cardiff,,https://media.api-sports.io/football/teams/43.png,Wales,FALSE,1889,Cardiff City Stadium,grass,Leckwith Road,Caerdydd,33280,2013
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2013
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2013
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2013
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2013
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2013
+64,Hull City,,https://media.api-sports.io/football/teams/64.png,England,FALSE,1904,KCOM Stadium,grass,Walton Street / Anlaby Road,Hull,25504,2013
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2013
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2013
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2014
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2014
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2014
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2014
+72,QPR,,https://media.api-sports.io/football/teams/72.png,England,FALSE,1885,Kiyan Prince Foundation Stadium,grass,"South Africa Road, Shepherd&apos;s Bush",London,18360,2014
+64,Hull City,,https://media.api-sports.io/football/teams/64.png,England,FALSE,1904,KCOM Stadium,grass,Walton Street / Anlaby Road,Hull,25504,2014
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2014
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2014
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2014
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2014
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2014
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2014
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2014
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2014
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2014
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2014
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2014
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2014
+44,Burnley,,https://media.api-sports.io/football/teams/44.png,England,FALSE,1882,Turf Moor,grass,Harry Potts Way,Burnley,22546,2014
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2014
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2015
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2015
+35,Bournemouth,,https://media.api-sports.io/football/teams/35.png,England,FALSE,1899,Vitality Stadium,grass,"Dean Court, Kings Park","Bournemouth, Dorset",12000,2015
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2015
+71,Norwich,,https://media.api-sports.io/football/teams/71.png,England,FALSE,1902,Carrow Road,grass,Carrow Road,"Norwich, Norfolk",27244,2015
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2015
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2015
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2015
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2015
+38,Watford,,https://media.api-sports.io/football/teams/38.png,England,FALSE,1881,Vicarage Road,grass,Vicarage Road,Watford,22200,2015
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2015
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2015
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2015
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2015
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2015
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2015
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2015
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2015
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2015
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2015
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2016
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2016
+44,Burnley,,https://media.api-sports.io/football/teams/44.png,England,FALSE,1882,Turf Moor,grass,Harry Potts Way,Burnley,22546,2016
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2016
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2016
+746,Sunderland,,https://media.api-sports.io/football/teams/746.png,England,FALSE,1879,Stadium of Light,grass,Millenium Way,Sunderland,49000,2016
+64,Hull City,,https://media.api-sports.io/football/teams/64.png,England,FALSE,1904,KCOM Stadium,grass,Walton Street / Anlaby Road,Hull,25504,2016
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2016
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2016
+35,Bournemouth,,https://media.api-sports.io/football/teams/35.png,England,FALSE,1899,Vitality Stadium,grass,"Dean Court, Kings Park","Bournemouth, Dorset",12000,2016
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2016
+70,Middlesbrough,,https://media.api-sports.io/football/teams/70.png,England,FALSE,1876,Riverside Stadium,grass,Dockside Road,Middlesbrough,34988,2016
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2016
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2016
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2016
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2016
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2016
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2016
+38,Watford,,https://media.api-sports.io/football/teams/38.png,England,FALSE,1881,Vicarage Road,grass,Vicarage Road,Watford,22200,2016
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2016
+44,Burnley,,https://media.api-sports.io/football/teams/44.png,England,FALSE,1882,Turf Moor,grass,Harry Potts Way,Burnley,22546,2017
+35,Bournemouth,,https://media.api-sports.io/football/teams/35.png,England,FALSE,1899,Vitality Stadium,grass,"Dean Court, Kings Park","Bournemouth, Dorset",12000,2017
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2017
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2017
+37,Huddersfield,,https://media.api-sports.io/football/teams/37.png,England,FALSE,1908,John Smith's Stadium,grass,Stadium Way,"Huddersfield, West Yorkshire",24554,2017
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2017
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2017
+51,Brighton,,https://media.api-sports.io/football/teams/51.png,England,FALSE,1901,The American Express Community Stadium,grass,Village Way,"Falmer, East Sussex",30750,2017
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2017
+38,Watford,,https://media.api-sports.io/football/teams/38.png,England,FALSE,1881,Vicarage Road,grass,Vicarage Road,Watford,22200,2017
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2017
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2017
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2017
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2017
+76,Swansea,,https://media.api-sports.io/football/teams/76.png,Wales,FALSE,1912,Liberty Stadium,grass,Normandy Road,Swansea,21028,2017
+75,Stoke City,,https://media.api-sports.io/football/teams/75.png,England,FALSE,1868,bet365 Stadium,grass,Stanley Matthews Way,"Stoke-on-Trent, Staffordshire",30089,2017
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2017
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2017
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2017
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2017
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2018
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2018
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2018
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2018
+35,Bournemouth,,https://media.api-sports.io/football/teams/35.png,England,FALSE,1899,Vitality Stadium,grass,"Dean Court, Kings Park","Bournemouth, Dorset",12000,2018
+43,Cardiff,,https://media.api-sports.io/football/teams/43.png,Wales,FALSE,1889,Cardiff City Stadium,grass,Leckwith Road,Caerdydd,33280,2018
+36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,FALSE,1879,Craven Cottage,grass,Stevenage Road,London,25700,2018
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2018
+37,Huddersfield,,https://media.api-sports.io/football/teams/37.png,England,FALSE,1908,John Smith's Stadium,grass,Stadium Way,"Huddersfield, West Yorkshire",24554,2018
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2018
+38,Watford,,https://media.api-sports.io/football/teams/38.png,England,FALSE,1881,Vicarage Road,grass,Vicarage Road,Watford,22200,2018
+51,Brighton,,https://media.api-sports.io/football/teams/51.png,England,FALSE,1901,The American Express Community Stadium,grass,Village Way,"Falmer, East Sussex",30750,2018
+39,Wolves,,https://media.api-sports.io/football/teams/39.png,England,FALSE,1877,Molineux Stadium,grass,Waterloo Road,"Wolverhampton, West Midlands",32050,2018
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2018
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2018
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2018
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2018
+44,Burnley,,https://media.api-sports.io/football/teams/44.png,England,FALSE,1882,Turf Moor,grass,Harry Potts Way,Burnley,22546,2018
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2018
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2018
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2019
+71,Norwich,,https://media.api-sports.io/football/teams/71.png,England,FALSE,1902,Carrow Road,grass,Carrow Road,"Norwich, Norfolk",27244,2019
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2019
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2019
+35,Bournemouth,,https://media.api-sports.io/football/teams/35.png,England,FALSE,1899,Vitality Stadium,grass,"Dean Court, Kings Park","Bournemouth, Dorset",12000,2019
+62,Sheffield Utd,,https://media.api-sports.io/football/teams/62.png,England,FALSE,1889,Bramall Lane,grass,Bramall Lane,Sheffield,32702,2019
+44,Burnley,,https://media.api-sports.io/football/teams/44.png,England,FALSE,1882,Turf Moor,grass,Harry Potts Way,Burnley,22546,2019
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2019
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2019
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2019
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2019
+39,Wolves,,https://media.api-sports.io/football/teams/39.png,England,FALSE,1877,Molineux Stadium,grass,Waterloo Road,"Wolverhampton, West Midlands",32050,2019
+38,Watford,,https://media.api-sports.io/football/teams/38.png,England,FALSE,1881,Vicarage Road,grass,Vicarage Road,Watford,22200,2019
+51,Brighton,,https://media.api-sports.io/football/teams/51.png,England,FALSE,1901,The American Express Community Stadium,grass,Village Way,"Falmer, East Sussex",30750,2019
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2019
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2019
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2019
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2019
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2019
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2019
+44,Burnley,,https://media.api-sports.io/football/teams/44.png,England,FALSE,1882,Turf Moor,grass,Harry Potts Way,Burnley,22546,2020
+33,Manchester United,MUN,https://media.api-sports.io/football/teams/33.png,England,FALSE,1878,Old Trafford,grass,Sir Matt Busby Way,Manchester,76212,2020
+52,Crystal Palace,,https://media.api-sports.io/football/teams/52.png,England,FALSE,1905,Selhurst Park,grass,Holmesdale Road,London,26309,2020
+41,Southampton,,https://media.api-sports.io/football/teams/41.png,England,FALSE,1885,St. Mary's Stadium,grass,Britannia Road,"Southampton, Hampshire",32689,2020
+36,Fulham,,https://media.api-sports.io/football/teams/36.png,England,FALSE,1879,Craven Cottage,grass,Stevenage Road,London,25700,2020
+42,Arsenal,,https://media.api-sports.io/football/teams/42.png,England,FALSE,1886,Emirates Stadium,grass,Queensland Road,London,60383,2020
+40,Liverpool,,https://media.api-sports.io/football/teams/40.png,England,FALSE,1892,Anfield,grass,Anfield Road,Liverpool,55212,2020
+63,Leeds,,https://media.api-sports.io/football/teams/63.png,England,FALSE,1919,Elland Road,grass,Elland Road,"Leeds, West Yorkshire",40204,2020
+50,Manchester City,,https://media.api-sports.io/football/teams/50.png,England,FALSE,1880,Etihad Stadium,grass,Rowsley Street,Manchester,55097,2020
+66,Aston Villa,,https://media.api-sports.io/football/teams/66.png,England,FALSE,1874,Villa Park,grass,Trinity Road,Birmingham,42788,2020
+47,Tottenham,,https://media.api-sports.io/football/teams/47.png,England,FALSE,1882,Tottenham Hotspur Stadium,grass,"Bill Nicholson Way, 748 High Road",London,62062,2020
+45,Everton,,https://media.api-sports.io/football/teams/45.png,England,FALSE,1878,Goodison Park,grass,Goodison Road,Liverpool,40569,2020
+60,West Brom,,https://media.api-sports.io/football/teams/60.png,England,FALSE,1878,The Hawthorns,grass,Halfords Lane,West Bromwich,28003,2020
+46,Leicester,,https://media.api-sports.io/football/teams/46.png,England,FALSE,1884,King Power Stadium,grass,Filbert Way,"Leicester, Leicestershire",32262,2020
+48,West Ham,,https://media.api-sports.io/football/teams/48.png,England,FALSE,1895,London Stadium,grass,"Marshgate Lane, Stratford",London,60000,2020
+34,Newcastle,,https://media.api-sports.io/football/teams/34.png,England,FALSE,1892,St. James' Park,grass,St. James&apos; Street,Newcastle upon Tyne,52389,2020
+51,Brighton,,https://media.api-sports.io/football/teams/51.png,England,FALSE,1901,The American Express Community Stadium,grass,Village Way,"Falmer, East Sussex",30750,2020
+49,Chelsea,,https://media.api-sports.io/football/teams/49.png,England,FALSE,1905,Stamford Bridge,grass,Fulham Road,London,41841,2020
+62,Sheffield Utd,,https://media.api-sports.io/football/teams/62.png,England,FALSE,1889,Bramall Lane,grass,Bramall Lane,Sheffield,32702,2020
+39,Wolves,,https://media.api-sports.io/football/teams/39.png,England,FALSE,1877,Molineux Stadium,grass,Waterloo Road,"Wolverhampton, West Midlands",32050,2020
+108,Auxerre,,https://media.api-sports.io/football/teams/108.png,France,FALSE,1905,Stade de l'Abbé Deschamps,grass,Route de Vaux,Auxerre,23467,2010
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2010
+116,Lens,,https://media.api-sports.io/football/teams/116.png,France,FALSE,1906,Stade Bollaert-Delelis,grass,"83, rue Maurice-Carton",Lens,41233,2010
+102,Nancy,,https://media.api-sports.io/football/teams/102.png,France,FALSE,1967,Stade Marcel-Picot,grass,"90, boulevard Jean-Jaurès",Tomblaine,20087,2010
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2010
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2010
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2010
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2010
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2010
+105,Valenciennes,,https://media.api-sports.io/football/teams/105.png,France,FALSE,1913,Stade du Hainaut,grass,Nungesser,Valenciennes,24926,2010
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2010
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2010
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2010
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2010
+115,Sochaux,,https://media.api-sports.io/football/teams/115.png,France,FALSE,1928,Stade Auguste-Bonal,grass,Impasse de la Forge,Montbéliard,20005,2010
+4652,Arles,,https://media.api-sports.io/football/teams/4652.png,France,FALSE,1912,Parc des Sports,grass,"470, avenue Pierre de Coubertin",Avignon,17518,2010
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2010
+106,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,FALSE,1950,Stade Francis-Le Blé,grass,"26, rue de Quimper",Brest,15931,2010
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2010
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2010
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2012
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2012
+102,Nancy,,https://media.api-sports.io/football/teams/102.png,France,FALSE,1967,Stade Marcel-Picot,grass,"90, boulevard Jean-Jaurès",Tomblaine,20087,2012
+106,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,FALSE,1950,Stade Francis-Le Blé,grass,"26, rue de Quimper",Brest,15931,2012
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2012
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2012
+110,Estac Troyes,,https://media.api-sports.io/football/teams/110.png,France,FALSE,1986,Stade de l'Aube,grass,"42, avenue Robert Schuman",Troyes,21877,2012
+105,Valenciennes,,https://media.api-sports.io/football/teams/105.png,France,FALSE,1913,Stade du Hainaut,grass,Nungesser,Valenciennes,24926,2012
+3006,Evian TG,,https://media.api-sports.io/football/teams/3006.png,France,FALSE,1924,Parc des Sports,grass,Rue Pierre de Coubertin,Annecy,15660,2012
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2012
+115,Sochaux,,https://media.api-sports.io/football/teams/115.png,France,FALSE,1928,Stade Auguste-Bonal,grass,Impasse de la Forge,Montbéliard,20005,2012
+1305,Bastia,,https://media.api-sports.io/football/teams/1305.png,France,FALSE,1905,Stade Armand-Césari,grass,Route du Stade,Furiani,17000,2012
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2012
+98,Ajaccio,,https://media.api-sports.io/football/teams/98.png,France,FALSE,1910,Stade François Coty,grass,"Ancienne route de Sartène, Zone Industrielle du Vazzio",Ajaccio,10660,2012
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2012
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2012
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2012
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2012
+93,Reims,REI,https://media.api-sports.io/football/teams/93.png,France,FALSE,1909,Stade Auguste-Delaune II,grass,"33, Chaussée Bocquaine",Reims,21684,2012
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2012
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2013
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2013
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2013
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2013
+3006,Evian TG,,https://media.api-sports.io/football/teams/3006.png,France,FALSE,1924,Parc des Sports,grass,Rue Pierre de Coubertin,Annecy,15660,2013
+115,Sochaux,,https://media.api-sports.io/football/teams/115.png,France,FALSE,1928,Stade Auguste-Bonal,grass,Impasse de la Forge,Montbéliard,20005,2013
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2013
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2013
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2013
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2013
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2013
+1305,Bastia,,https://media.api-sports.io/football/teams/1305.png,France,FALSE,1905,Stade Armand-Césari,grass,Route du Stade,Furiani,17000,2013
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2013
+93,Reims,REI,https://media.api-sports.io/football/teams/93.png,France,FALSE,1909,Stade Auguste-Delaune II,grass,"33, Chaussée Bocquaine",Reims,21684,2013
+105,Valenciennes,,https://media.api-sports.io/football/teams/105.png,France,FALSE,1913,Stade du Hainaut,grass,Nungesser,Valenciennes,24926,2013
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2013
+98,Ajaccio,,https://media.api-sports.io/football/teams/98.png,France,FALSE,1910,Stade François Coty,grass,"Ancienne route de Sartène, Zone Industrielle du Vazzio",Ajaccio,10660,2013
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2013
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2013
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2013
+93,Reims,REI,https://media.api-sports.io/football/teams/93.png,France,FALSE,1909,Stade Auguste-Delaune II,grass,"33, Chaussée Bocquaine",Reims,21684,2014
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2014
+1305,Bastia,,https://media.api-sports.io/football/teams/1305.png,France,FALSE,1905,Stade Armand-Césari,grass,Route du Stade,Furiani,17000,2014
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2014
+3006,Evian TG,,https://media.api-sports.io/football/teams/3006.png,France,FALSE,1924,Parc des Sports,grass,Rue Pierre de Coubertin,Annecy,15660,2014
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2014
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2014
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2014
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2014
+112,Metz,,https://media.api-sports.io/football/teams/112.png,France,FALSE,1932,Stade Saint-Symphorien,grass,"3, allée Saint-Symphorien",Longeville-lès-Metz,25636,2014
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2014
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2014
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2014
+116,Lens,,https://media.api-sports.io/football/teams/116.png,France,FALSE,1906,Stade Bollaert-Delelis,grass,"83, rue Maurice-Carton",Lens,41233,2014
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2014
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2014
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2014
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2014
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2014
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2014
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2015
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2015
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2015
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2015
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2015
+77,Angers,ANG,https://media.api-sports.io/football/teams/77.png,France,FALSE,1919,Stade Raymond-Kopa,grass,"73, boulevard Pierre de Coubertin",Angers,17835,2015
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2015
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2015
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2015
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2015
+1305,Bastia,,https://media.api-sports.io/football/teams/1305.png,France,FALSE,1905,Stade Armand-Césari,grass,Route du Stade,Furiani,17000,2015
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2015
+110,Estac Troyes,,https://media.api-sports.io/football/teams/110.png,France,FALSE,1986,Stade de l'Aube,grass,"42, avenue Robert Schuman",Troyes,21877,2015
+100,Gazelec FC Ajaccio,,https://media.api-sports.io/football/teams/100.png,France,FALSE,1910,Stade Ange Casanova,grass,"Route de Mezzavia, Mezzavia",Ajaccio,8000,2015
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2015
+93,Reims,REI,https://media.api-sports.io/football/teams/93.png,France,FALSE,1909,Stade Auguste-Delaune II,grass,"33, Chaussée Bocquaine",Reims,21684,2015
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2015
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2015
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2015
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2015
+77,Angers,ANG,https://media.api-sports.io/football/teams/77.png,France,FALSE,1919,Stade Raymond-Kopa,grass,"73, boulevard Pierre de Coubertin",Angers,17835,2016
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2016
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2016
+112,Metz,,https://media.api-sports.io/football/teams/112.png,France,FALSE,1932,Stade Saint-Symphorien,grass,"3, allée Saint-Symphorien",Longeville-lès-Metz,25636,2016
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2016
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2016
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2016
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2016
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2016
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2016
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2016
+1305,Bastia,,https://media.api-sports.io/football/teams/1305.png,France,FALSE,1905,Stade Armand-Césari,grass,Route du Stade,Furiani,17000,2016
+102,Nancy,,https://media.api-sports.io/football/teams/102.png,France,FALSE,1967,Stade Marcel-Picot,grass,"90, boulevard Jean-Jaurès",Tomblaine,20087,2016
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2016
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2016
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2016
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2016
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2016
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2016
+89,Dijon,DIJ,https://media.api-sports.io/football/teams/89.png,France,FALSE,1936,Stade Gaston-Gérard,grass,Rue du Stade,Dijon,16098,2016
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2017
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2017
+89,Dijon,DIJ,https://media.api-sports.io/football/teams/89.png,France,FALSE,1936,Stade Gaston-Gérard,grass,Rue du Stade,Dijon,16098,2017
+77,Angers,ANG,https://media.api-sports.io/football/teams/77.png,France,FALSE,1919,Stade Raymond-Kopa,grass,"73, boulevard Pierre de Coubertin",Angers,17835,2017
+110,Estac Troyes,,https://media.api-sports.io/football/teams/110.png,France,FALSE,1986,Stade de l'Aube,grass,"42, avenue Robert Schuman",Troyes,21877,2017
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2017
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2017
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2017
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2017
+87,Amiens,AMI,https://media.api-sports.io/football/teams/87.png,France,FALSE,1901,Stade Crédit Agricole de la Licorne,grass,"25, rue du Chapître",Amiens,12999,2017
+112,Metz,,https://media.api-sports.io/football/teams/112.png,France,FALSE,1932,Stade Saint-Symphorien,grass,"3, allée Saint-Symphorien",Longeville-lès-Metz,25636,2017
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2017
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2017
+95,Strasbourg,STR,https://media.api-sports.io/football/teams/95.png,France,FALSE,1906,Stade de la Meinau,grass,"12, rue de l&apos;Extenwoerth",Strasbourg,26109,2017
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2017
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2017
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2017
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2017
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2017
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2017
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2017
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2017
+89,Dijon,DIJ,https://media.api-sports.io/football/teams/89.png,France,FALSE,1936,Stade Gaston-Gérard,grass,Rue du Stade,Dijon,16098,2017
+77,Angers,ANG,https://media.api-sports.io/football/teams/77.png,France,FALSE,1919,Stade Raymond-Kopa,grass,"73, boulevard Pierre de Coubertin",Angers,17835,2017
+110,Estac Troyes,,https://media.api-sports.io/football/teams/110.png,France,FALSE,1986,Stade de l'Aube,grass,"42, avenue Robert Schuman",Troyes,21877,2017
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2017
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2017
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2017
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2017
+87,Amiens,AMI,https://media.api-sports.io/football/teams/87.png,France,FALSE,1901,Stade Crédit Agricole de la Licorne,grass,"25, rue du Chapître",Amiens,12999,2017
+112,Metz,,https://media.api-sports.io/football/teams/112.png,France,FALSE,1932,Stade Saint-Symphorien,grass,"3, allée Saint-Symphorien",Longeville-lès-Metz,25636,2017
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2017
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2017
+95,Strasbourg,STR,https://media.api-sports.io/football/teams/95.png,France,FALSE,1906,Stade de la Meinau,grass,"12, rue de l&apos;Extenwoerth",Strasbourg,26109,2017
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2017
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2017
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2017
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2017
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2017
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2017
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2018
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2018
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2018
+95,Strasbourg,STR,https://media.api-sports.io/football/teams/95.png,France,FALSE,1906,Stade de la Meinau,grass,"12, rue de l&apos;Extenwoerth",Strasbourg,26109,2018
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2018
+87,Amiens,AMI,https://media.api-sports.io/football/teams/87.png,France,FALSE,1901,Stade Crédit Agricole de la Licorne,grass,"25, rue du Chapître",Amiens,12999,2018
+77,Angers,ANG,https://media.api-sports.io/football/teams/77.png,France,FALSE,1919,Stade Raymond-Kopa,grass,"73, boulevard Pierre de Coubertin",Angers,17835,2018
+92,Nimes,NIM,https://media.api-sports.io/football/teams/92.png,France,FALSE,1937,Stade des Costières,grass,"123, avenue de la Bouvine",Nîmes,18482,2018
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2018
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2018
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2018
+89,Dijon,DIJ,https://media.api-sports.io/football/teams/89.png,France,FALSE,1936,Stade Gaston-Gérard,grass,Rue du Stade,Dijon,16098,2018
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2018
+93,Reims,REI,https://media.api-sports.io/football/teams/93.png,France,FALSE,1909,Stade Auguste-Delaune II,grass,"33, Chaussée Bocquaine",Reims,21684,2018
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2018
+90,Guingamp,GUI,https://media.api-sports.io/football/teams/90.png,France,FALSE,1912,Stade du Roudourou,grass,Rue du Manoir 11,Guingamp,19003,2018
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2018
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2018
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2018
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2018
+89,Dijon,DIJ,https://media.api-sports.io/football/teams/89.png,France,FALSE,1936,Stade Gaston-Gérard,grass,Rue du Stade,Dijon,16098,2019
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2019
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2019
+93,Reims,REI,https://media.api-sports.io/football/teams/93.png,France,FALSE,1909,Stade Auguste-Delaune II,grass,"33, Chaussée Bocquaine",Reims,21684,2019
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2019
+87,Amiens,AMI,https://media.api-sports.io/football/teams/87.png,France,FALSE,1901,Stade Crédit Agricole de la Licorne,grass,"25, rue du Chapître",Amiens,12999,2019
+95,Strasbourg,STR,https://media.api-sports.io/football/teams/95.png,France,FALSE,1906,Stade de la Meinau,grass,"12, rue de l&apos;Extenwoerth",Strasbourg,26109,2019
+112,Metz,,https://media.api-sports.io/football/teams/112.png,France,FALSE,1932,Stade Saint-Symphorien,grass,"3, allée Saint-Symphorien",Longeville-lès-Metz,25636,2019
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2019
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2019
+77,Angers,ANG,https://media.api-sports.io/football/teams/77.png,France,FALSE,1919,Stade Raymond-Kopa,grass,"73, boulevard Pierre de Coubertin",Angers,17835,2019
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2019
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2019
+83,Nantes,NAN,https://media.api-sports.io/football/teams/83.png,France,FALSE,1943,Stade de la Beaujoire - Louis Fonteneau,grass,"5, boulevard de la Beaujoire",Nantes,38285,2019
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2019
+92,Nimes,NIM,https://media.api-sports.io/football/teams/92.png,France,FALSE,1937,Stade des Costières,grass,"123, avenue de la Bouvine",Nîmes,18482,2019
+106,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,FALSE,1950,Stade Francis-Le Blé,grass,"26, rue de Quimper",Brest,15931,2019
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2019
+91,Monaco,AMO,https://media.api-sports.io/football/teams/91.png,France,FALSE,1919,Stade Louis II,grass,"7, avenue des Castelans",Monaco,18523,2019
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2019
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2010
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2010
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2010
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2010
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2010
+171,FC Nurnberg,,https://media.api-sports.io/football/teams/171.png,Germany,FALSE,1900,Max-Morlock-Stadion,grass,Max-Morlock-Platz 1,Nürnberg,50000,2010
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2010
+745,FC Kaiserslautern,,https://media.api-sports.io/football/teams/745.png,Germany,FALSE,1900,Fritz-Walter-Stadion,grass,Fritz-Walter-Straße 1,Kaiserslautern,49780,2010
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2010
+186,FC St. Pauli,,https://media.api-sports.io/football/teams/186.png,Germany,FALSE,1910,Millerntor-Stadion,grass,Auf dem Heiligengeistfeld,Hamburg,29546,2010
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2010
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2010
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2010
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2010
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2010
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2010
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2010
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2010
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2011
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2011
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2011
+745,FC Kaiserslautern,,https://media.api-sports.io/football/teams/745.png,Germany,FALSE,1900,Fritz-Walter-Stadion,grass,Fritz-Walter-Straße 1,Kaiserslautern,49780,2011
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2011
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2011
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2011
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2011
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2011
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2011
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2011
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2011
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2011
+171,FC Nurnberg,,https://media.api-sports.io/football/teams/171.png,Germany,FALSE,1900,Max-Morlock-Stadion,grass,Max-Morlock-Platz 1,Nürnberg,50000,2011
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2011
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2011
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2011
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2011
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2012
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2012
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2012
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2012
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2012
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2012
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2012
+158,Fortuna Dusseldorf,,https://media.api-sports.io/football/teams/158.png,Germany,FALSE,1895,Merkur Spiel-Arena,grass,Arena-Str. 1,Düsseldorf,54600,2012
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2012
+171,FC Nurnberg,,https://media.api-sports.io/football/teams/171.png,Germany,FALSE,1900,Max-Morlock-Stadion,grass,Max-Morlock-Platz 1,Nürnberg,50000,2012
+178,SpVgg Greuther Furth,,https://media.api-sports.io/football/teams/178.png,Germany,FALSE,1903,Sportpark Ronhof Thomas Sommer,grass,Laubenweg 60,Fürth,18000,2012
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2012
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2012
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2012
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2012
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2012
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2012
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2012
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2013
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2013
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2013
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2013
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2013
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2013
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2013
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2013
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2013
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2013
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2013
+171,FC Nurnberg,,https://media.api-sports.io/football/teams/171.png,Germany,FALSE,1900,Max-Morlock-Stadion,grass,Max-Morlock-Platz 1,Nürnberg,50000,2013
+744,Eintracht Braunschweig,,https://media.api-sports.io/football/teams/744.png,Germany,FALSE,1895,Eintracht-Stadion,grass,Hamburger Straße 210,Braunschweig,23325,2013
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2013
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2013
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2013
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2013
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2013
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2014
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2014
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2014
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2014
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2014
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2014
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2014
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2014
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2014
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2014
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2014
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2014
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2014
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2014
+185,SC Paderborn 07,,https://media.api-sports.io/football/teams/185.png,Germany,FALSE,1907,Benteler-Arena,grass,Paderborner Straße 89,Paderborn,15306,2014
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2014
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2014
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2014
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2015
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2015
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2015
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2015
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2015
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2015
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2015
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2015
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2015
+184,FC Ingolstadt 04,,https://media.api-sports.io/football/teams/184.png,Germany,FALSE,2004,Audi-Sportpark,grass,Am Sportpark 1,Ingolstadt,15729,2015
+181,SV Darmstadt 98,,https://media.api-sports.io/football/teams/181.png,Germany,FALSE,1898,Merck-Stadion am Böllenfalltor,grass,Nieder-Ramstädter Straße 170,Darmstadt,17468,2015
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2015
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2015
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2015
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2015
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2015
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2015
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2015
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2016
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2016
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2016
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2016
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2016
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2016
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2016
+181,SV Darmstadt 98,,https://media.api-sports.io/football/teams/181.png,Germany,FALSE,1898,Merck-Stadion am Böllenfalltor,grass,Nieder-Ramstädter Straße 170,Darmstadt,17468,2016
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2016
+173,RB Leipzig,,https://media.api-sports.io/football/teams/173.png,Germany,FALSE,2009,Red Bull Arena,grass,Am Sportforum 3,Leipzig,44345,2016
+184,FC Ingolstadt 04,,https://media.api-sports.io/football/teams/184.png,Germany,FALSE,2004,Audi-Sportpark,grass,Am Sportpark 1,Ingolstadt,15729,2016
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2016
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2016
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2016
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2016
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2016
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2016
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2016
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2017
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2017
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2017
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2017
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2017
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2017
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2017
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2017
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2017
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2017
+175,Hamburger SV,,https://media.api-sports.io/football/teams/175.png,Germany,FALSE,1887,Volksparkstadion,grass,Sylvester Allee 7,Hamburg,57030,2017
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2017
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2017
+173,RB Leipzig,,https://media.api-sports.io/football/teams/173.png,Germany,FALSE,2009,Red Bull Arena,grass,Am Sportforum 3,Leipzig,44345,2017
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2017
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2017
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2017
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2017
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2018
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2018
+158,Fortuna Dusseldorf,,https://media.api-sports.io/football/teams/158.png,Germany,FALSE,1895,Merkur Spiel-Arena,grass,Arena-Str. 1,Düsseldorf,54600,2018
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2018
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2018
+171,FC Nurnberg,,https://media.api-sports.io/football/teams/171.png,Germany,FALSE,1900,Max-Morlock-Stadion,grass,Max-Morlock-Platz 1,Nürnberg,50000,2018
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2018
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2018
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2018
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2018
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2018
+166,Hannover 96,,https://media.api-sports.io/football/teams/166.png,Germany,FALSE,1896,HDI-Arena,grass,Robert-Enke-Str. 3,Hannover,49000,2018
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2018
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2018
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2018
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2018
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2018
+173,RB Leipzig,,https://media.api-sports.io/football/teams/173.png,Germany,FALSE,2009,Red Bull Arena,grass,Am Sportforum 3,Leipzig,44345,2018
+182,Union Berlin,,https://media.api-sports.io/football/teams/182.png,Germany,FALSE,1966,Stadion An der Alten Försterei,grass,"Hämmerlingstraße 80-88, Köpenick",Berlin,22467,2018
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2019
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2019
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2019
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2019
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2019
+185,SC Paderborn 07,,https://media.api-sports.io/football/teams/185.png,Germany,FALSE,1907,Benteler-Arena,grass,Paderborner Straße 89,Paderborn,15306,2019
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2019
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2019
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2019
+158,Fortuna Dusseldorf,,https://media.api-sports.io/football/teams/158.png,Germany,FALSE,1895,Merkur Spiel-Arena,grass,Arena-Str. 1,Düsseldorf,54600,2019
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2019
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2019
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2019
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2019
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2019
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2019
+182,Union Berlin,,https://media.api-sports.io/football/teams/182.png,Germany,FALSE,1966,Stadion An der Alten Försterei,grass,"Hämmerlingstraße 80-88, Köpenick",Berlin,22467,2019
+173,RB Leipzig,,https://media.api-sports.io/football/teams/173.png,Germany,FALSE,2009,Red Bull Arena,grass,Am Sportforum 3,Leipzig,44345,2019
+180,FC Heidenheim,,https://media.api-sports.io/football/teams/180.png,Germany,FALSE,1946,Voith-Arena,grass,Schloßhaustraße 160,Heidenheim an der Brenz,15000,2019
+157,Bayern Munich,,https://media.api-sports.io/football/teams/157.png,Germany,FALSE,1900,Allianz Arena,grass,Werner-Heisenberg-Allee 25,München,75000,2020
+174,FC Schalke 04,,https://media.api-sports.io/football/teams/174.png,Germany,FALSE,1904,VELTINS-Arena,grass,Arenaring 1,Gelsenkirchen,62271,2020
+165,Borussia Dortmund,,https://media.api-sports.io/football/teams/165.png,Germany,FALSE,1909,Signal-Iduna-Park,grass,Strobelalle 50,Dortmund,81365,2020
+163,Borussia Monchengladbach,,https://media.api-sports.io/football/teams/163.png,Germany,FALSE,1900,Stadion im BORUSSIA-PARK,grass,Hennes-Weisweiler-Allee 1,Mönchengladbach,54057,2020
+173,RB Leipzig,,https://media.api-sports.io/football/teams/173.png,Germany,FALSE,2009,Red Bull Arena,grass,Am Sportforum 3,Leipzig,44345,2020
+164,FSV Mainz 05,,https://media.api-sports.io/football/teams/164.png,Germany,FALSE,1905,OPEL ARENA,grass,Eugen-Salomon-Straße 1,Mainz,34034,2020
+161,VfL Wolfsburg,,https://media.api-sports.io/football/teams/161.png,Germany,FALSE,1945,VOLKSWAGEN ARENA,grass,In den Allerwiesen 1,Wolfsburg,30000,2020
+168,Bayer Leverkusen,,https://media.api-sports.io/football/teams/168.png,Germany,FALSE,1904,BayArena,grass,Bismarckstr. 122-124,Leverkusen,30210,2020
+169,Eintracht Frankfurt,,https://media.api-sports.io/football/teams/169.png,Germany,FALSE,1899,Deutsche Bank Park,grass,Mörfelder Landstr. 362,Frankfurt am Main,52300,2020
+188,Arminia Bielefeld,,https://media.api-sports.io/football/teams/188.png,Germany,FALSE,1905,SchücoArena,grass,Melanchthonstr. 31a,Bielefeld,27300,2020
+182,Union Berlin,,https://media.api-sports.io/football/teams/182.png,Germany,FALSE,1966,Stadion An der Alten Försterei,grass,"Hämmerlingstraße 80-88, Köpenick",Berlin,22467,2020
+170,FC Augsburg,,https://media.api-sports.io/football/teams/170.png,Germany,FALSE,1907,WWK Arena,grass,Bürgermeister Ulrich-Straße 90,Augsburg,30662,2020
+192,FC Koln,,https://media.api-sports.io/football/teams/192.png,Germany,FALSE,1948,RheinEnergieStadion,grass,Aachener Str. 999,Köln,50076,2020
+167,1899 Hoffenheim,,https://media.api-sports.io/football/teams/167.png,Germany,FALSE,1899,PreZero Arena,grass,Dietmar-Hopp-Straße 1,Sinsheim,30164,2020
+162,Werder Bremen,,https://media.api-sports.io/football/teams/162.png,Germany,FALSE,1899,wohninvest WESERSTADION,grass,Franz-Böhmert-Straße 1c,Bremen,42358,2020
+159,Hertha Berlin,,https://media.api-sports.io/football/teams/159.png,Germany,FALSE,1892,Olympiastadion Berlin,grass,Olympischer Platz 3,Berlin,77116,2020
+172,VfB Stuttgart,,https://media.api-sports.io/football/teams/172.png,Germany,FALSE,1893,Mercedes-Benz-Arena,grass,Mercedesstrasse 87,Stuttgart,60469,2020
+160,SC Freiburg,,https://media.api-sports.io/football/teams/160.png,Germany,FALSE,1904,Schwarzwald-Stadion,grass,Schwarzwaldstraße 193,Freiburg im Breisgau,25000,2020
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2010
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2010
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2010
+509,Cesena,,https://media.api-sports.io/football/teams/509.png,Italy,FALSE,1940,Orogel Stadium-Dino Manuzzi,artificial turf,"Via dello Stadio, 124",Cesena,23860,2010
+508,Bari,,https://media.api-sports.io/football/teams/508.png,Italy,FALSE,1908,Stadio Comunale San Nicola,grass,Strada Provinciale Modugno-Carbonara,Bari,58270,2010
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2010
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2010
+1580,Catania,,https://media.api-sports.io/football/teams/1580.png,Italy,FALSE,1908,Stadio Angelo Massimino,grass,Piazza Vincenzo Spedini,Catania,20104,2010
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2010
+867,Lecce,,https://media.api-sports.io/football/teams/867.png,Italy,FALSE,1908,Stadio Comunale Via del Mare,grass,Viale dello Stadio,Lecce,33876,2010
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2010
+518,Brescia,,https://media.api-sports.io/football/teams/518.png,Italy,FALSE,1911,Stadio Mario Rigamonti,grass,"Via Giovanni Novagani, 8",Brescia,27547,2010
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2010
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2010
+522,Palermo,,https://media.api-sports.io/football/teams/522.png,Italy,FALSE,1900,Stadio Renzo Barbera,grass,"Viale del Fante, 11",Palermo,36349,2010
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2010
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2010
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2010
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2010
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2010
+1583,Robur Siena,,https://media.api-sports.io/football/teams/1583.png,Italy,FALSE,1904,Stadio Comunale Artemio Franchi - Montepaschi Arena,grass,"Via Mille, 3",Siena,15373,2011
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2011
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2011
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2011
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2011
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2011
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2011
+509,Cesena,,https://media.api-sports.io/football/teams/509.png,Italy,FALSE,1940,Orogel Stadium-Dino Manuzzi,artificial turf,"Via dello Stadio, 124",Cesena,23860,2011
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2011
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2011
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2011
+867,Lecce,,https://media.api-sports.io/football/teams/867.png,Italy,FALSE,1908,Stadio Comunale Via del Mare,grass,Viale dello Stadio,Lecce,33876,2011
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2011
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2011
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2011
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2011
+513,Novara,,https://media.api-sports.io/football/teams/513.png,Italy,FALSE,1908,Stadio Comunale Silvio Piola,artificial turf,"Viale Kennedy, 8",Novara,17875,2011
+522,Palermo,,https://media.api-sports.io/football/teams/522.png,Italy,FALSE,1900,Stadio Renzo Barbera,grass,"Viale del Fante, 11",Palermo,36349,2011
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2011
+1580,Catania,,https://media.api-sports.io/football/teams/1580.png,Italy,FALSE,1908,Stadio Angelo Massimino,grass,Piazza Vincenzo Spedini,Catania,20104,2011
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2012
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2012
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2012
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2012
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2012
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2012
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2012
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2012
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2012
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2012
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2012
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2012
+522,Palermo,,https://media.api-sports.io/football/teams/522.png,Italy,FALSE,1900,Stadio Renzo Barbera,grass,"Viale del Fante, 11",Palermo,36349,2012
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2012
+525,Pescara,,https://media.api-sports.io/football/teams/525.png,Italy,FALSE,1936,Stadio Adriatico-Giovanni Cornacchia,grass,Via Pepe,Pescara,20476,2012
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2012
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2012
+1580,Catania,,https://media.api-sports.io/football/teams/1580.png,Italy,FALSE,1908,Stadio Angelo Massimino,grass,Piazza Vincenzo Spedini,Catania,20104,2012
+1583,Robur Siena,,https://media.api-sports.io/football/teams/1583.png,Italy,FALSE,1904,Stadio Comunale Artemio Franchi - Montepaschi Arena,grass,"Via Mille, 3",Siena,15373,2012
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2012
+504,Verona,,https://media.api-sports.io/football/teams/504.png,Italy,FALSE,1903,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2013
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2013
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2013
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2013
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2013
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2013
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2013
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2013
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2013
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2013
+868,Livorno,,https://media.api-sports.io/football/teams/868.png,Italy,FALSE,1915,Stadio Armando Picchi,grass,Piazzale Montello 14,Livorno,19238,2013
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2013
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2013
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2013
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2013
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2013
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2013
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2013
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2013
+1580,Catania,,https://media.api-sports.io/football/teams/1580.png,Italy,FALSE,1908,Stadio Angelo Massimino,grass,Piazza Vincenzo Spedini,Catania,20104,2013
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2014
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2014
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2014
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2014
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2014
+504,Verona,,https://media.api-sports.io/football/teams/504.png,Italy,FALSE,1903,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2014
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2014
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2014
+509,Cesena,,https://media.api-sports.io/football/teams/509.png,Italy,FALSE,1940,Orogel Stadium-Dino Manuzzi,artificial turf,"Via dello Stadio, 124",Cesena,23860,2014
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2014
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2014
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2014
+522,Palermo,,https://media.api-sports.io/football/teams/522.png,Italy,FALSE,1900,Stadio Renzo Barbera,grass,"Viale del Fante, 11",Palermo,36349,2014
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2014
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2014
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2014
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2014
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2014
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2014
+511,Empoli,,https://media.api-sports.io/football/teams/511.png,Italy,FALSE,1920,Stadio Carlo Castellani,grass,Viale delle Olimpiadi,Empoli,16284,2014
+504,Verona,,https://media.api-sports.io/football/teams/504.png,Italy,FALSE,1903,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2015
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2015
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2015
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2015
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2015
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2015
+511,Empoli,,https://media.api-sports.io/football/teams/511.png,Italy,FALSE,1920,Stadio Carlo Castellani,grass,Viale delle Olimpiadi,Empoli,16284,2015
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2015
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2015
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2015
+512,Frosinone,,https://media.api-sports.io/football/teams/512.png,Italy,FALSE,1928,Stadio Benito Stirpe,grass,Viale Olimpia,Frosinone,16310,2015
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2015
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2015
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2015
+522,Palermo,,https://media.api-sports.io/football/teams/522.png,Italy,FALSE,1900,Stadio Renzo Barbera,grass,"Viale del Fante, 11",Palermo,36349,2015
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2015
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2015
+519,Carpi,,https://media.api-sports.io/football/teams/519.png,Italy,FALSE,1909,Stadio Sandro Cabassi,grass,"Via Carlo Marx, 26",Carpi,5584,2015
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2015
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2015
+501,Crotone,,https://media.api-sports.io/football/teams/501.png,Italy,FALSE,1923,Stadio Ezio Scida,grass,Via Cutro,Crotone,16108,2016
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2016
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2016
+525,Pescara,,https://media.api-sports.io/football/teams/525.png,Italy,FALSE,1936,Stadio Adriatico-Giovanni Cornacchia,grass,Via Pepe,Pescara,20476,2016
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2016
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2016
+522,Palermo,,https://media.api-sports.io/football/teams/522.png,Italy,FALSE,1900,Stadio Renzo Barbera,grass,"Viale del Fante, 11",Palermo,36349,2016
+511,Empoli,,https://media.api-sports.io/football/teams/511.png,Italy,FALSE,1920,Stadio Carlo Castellani,grass,Viale delle Olimpiadi,Empoli,16284,2016
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2016
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2016
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2016
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2016
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2016
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2016
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2016
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2016
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2016
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2016
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2016
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2016
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2017
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2017
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2017
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2017
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2017
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2017
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2017
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2017
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2017
+506,Benevento,,https://media.api-sports.io/football/teams/506.png,Italy,FALSE,1929,Stadio Ciro Vigorito,grass,Piazzale degli Atleti,Benevento,17554,2017
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2017
+501,Crotone,,https://media.api-sports.io/football/teams/501.png,Italy,FALSE,1923,Stadio Ezio Scida,grass,Via Cutro,Crotone,16108,2017
+493,Spal,,https://media.api-sports.io/football/teams/493.png,Italy,FALSE,1907,Stadio Paolo Mazza,grass,"Corso Piave, 28",Ferrara,16134,2017
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2017
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2017
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2017
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2017
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2017
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2017
+504,Verona,,https://media.api-sports.io/football/teams/504.png,Italy,FALSE,1903,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2017
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2018
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2018
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2018
+512,Frosinone,,https://media.api-sports.io/football/teams/512.png,Italy,FALSE,1928,Stadio Benito Stirpe,grass,Viale Olimpia,Frosinone,16310,2018
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2018
+493,Spal,,https://media.api-sports.io/football/teams/493.png,Italy,FALSE,1907,Stadio Paolo Mazza,grass,"Corso Piave, 28",Ferrara,16134,2018
+491,Chievo,,https://media.api-sports.io/football/teams/491.png,Italy,FALSE,1929,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2018
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2018
+511,Empoli,,https://media.api-sports.io/football/teams/511.png,Italy,FALSE,1920,Stadio Carlo Castellani,grass,Viale delle Olimpiadi,Empoli,16284,2018
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2018
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2018
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2018
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2018
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2018
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2018
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2018
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2018
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2018
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2018
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2018
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2019
+518,Brescia,,https://media.api-sports.io/football/teams/518.png,Italy,FALSE,1911,Stadio Mario Rigamonti,grass,"Via Giovanni Novagani, 8",Brescia,27547,2019
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2019
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2019
+504,Verona,,https://media.api-sports.io/football/teams/504.png,Italy,FALSE,1903,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2019
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2019
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2019
+867,Lecce,,https://media.api-sports.io/football/teams/867.png,Italy,FALSE,1908,Stadio Comunale Via del Mare,grass,Viale dello Stadio,Lecce,33876,2019
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2019
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2019
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2019
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2019
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2019
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2019
+493,Spal,,https://media.api-sports.io/football/teams/493.png,Italy,FALSE,1907,Stadio Paolo Mazza,grass,"Corso Piave, 28",Ferrara,16134,2019
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2019
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2019
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2019
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2019
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2019
+506,Benevento,,https://media.api-sports.io/football/teams/506.png,Italy,FALSE,1929,Stadio Ciro Vigorito,grass,Piazzale degli Atleti,Benevento,17554,2020
+505,Inter,,https://media.api-sports.io/football/teams/505.png,Italy,FALSE,1908,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2020
+502,Fiorentina,,https://media.api-sports.io/football/teams/502.png,Italy,FALSE,1926,Stadio Artemio Franchi,grass,Viale Manfredo Fanti 14,Firenze,43147,2020
+503,Torino,,https://media.api-sports.io/football/teams/503.png,Italy,FALSE,1906,Stadio Olimpico Grande Torino,grass,"Corso Sebastopoli 123, Santa Rita",Torino,27958,2020
+495,Genoa,,https://media.api-sports.io/football/teams/495.png,Italy,FALSE,1893,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2020
+501,Crotone,,https://media.api-sports.io/football/teams/501.png,Italy,FALSE,1923,Stadio Ezio Scida,grass,Via Cutro,Crotone,16108,2020
+496,Juventus,,https://media.api-sports.io/football/teams/496.png,Italy,FALSE,1897,Allianz Stadium,grass,Strada Comunale di Altessano 131,Torino,45666,2020
+498,Sampdoria,,https://media.api-sports.io/football/teams/498.png,Italy,FALSE,1946,Stadio Comunale Luigi Ferraris,grass,"Via Giovanni De Prà, 1",Genova,36703,2020
+487,Lazio,,https://media.api-sports.io/football/teams/487.png,Italy,FALSE,1900,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2020
+499,Atalanta,,https://media.api-sports.io/football/teams/499.png,Italy,FALSE,1907,Gewiss Stadium,grass,"Viale Caio Giulio Cesare, 18",Bergamo,21300,2020
+489,AC Milan,,https://media.api-sports.io/football/teams/489.png,Italy,FALSE,1899,Stadio Giuseppe Meazza,grass,Via Piccolomini 5,Milano,80018,2020
+500,Bologna,,https://media.api-sports.io/football/teams/500.png,Italy,FALSE,1909,Stadio Renato Dall'Ara,grass,"Via Andrea Costa, 174",Bologna,39279,2020
+523,Parma,,https://media.api-sports.io/football/teams/523.png,Italy,FALSE,1913,Stadio Ennio Tardini,grass,"Via Partigiani d&apos;Italia, 1",Parma,21473,2020
+492,Napoli,,https://media.api-sports.io/football/teams/492.png,Italy,FALSE,1904,Stadio San Paolo,grass,Pizzale Vincenzo Tecchio,Napoli,60240,2020
+488,Sassuolo,,https://media.api-sports.io/football/teams/488.png,Italy,FALSE,1922,MAPEI Stadium - Città del Tricolore,grass,"Piazza Azzuri d&apos;Italia, 1",Reggio nell&apos;Emilia,23717,2020
+490,Cagliari,,https://media.api-sports.io/football/teams/490.png,Italy,FALSE,1920,Sardegna Arena,grass,Via Raimondo Carta Raspi,Cagliari,16416,2020
+494,Udinese,,https://media.api-sports.io/football/teams/494.png,Italy,FALSE,1896,Dacia Arena,grass,"Piazza le Repubblica Argentina, 3",Udine,25952,2020
+515,Spezia,,https://media.api-sports.io/football/teams/515.png,Italy,FALSE,1906,Stadio Alberto Picco,artificial turf,"Via Nicolò Fieschi, 18",La Spezia,10336,2020
+504,Verona,,https://media.api-sports.io/football/teams/504.png,Italy,FALSE,1903,Stadio Marc'Antonio Bentegodi,grass,Piazzale Olimpia,Verona,39211,2020
+497,AS Roma,,https://media.api-sports.io/football/teams/497.png,Italy,FALSE,1927,Stadio Olimpico,grass,"Viale dei Gladiatori, 2 / Via del Foro Italico",Roma,68530,2020
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2010
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2010
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2010
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2010
+544,Deportivo La Coruna,,https://media.api-sports.io/football/teams/544.png,Spain,FALSE,1906,Estadio Abanca-Riazor,grass,Calle Manuel Murguía,La Coruña,34611,2010
+732,Zaragoza,,https://media.api-sports.io/football/teams/732.png,Spain,FALSE,1932,Estadio de la Romareda,grass,Calle de Eduardo Ibarra 6,Zaragoza,34596,2010
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2010
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2010
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2010
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2010
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2010
+723,Almeria,,https://media.api-sports.io/football/teams/723.png,Spain,FALSE,1989,Estadio de los Juegos Mediterráneos,grass,Calle de Belladona,Almería,21350,2010
+4665,Racing Santander,,https://media.api-sports.io/football/teams/4665.png,Spain,FALSE,1913,Campos de Sport de El Sardinero,grass,Calle del Real Racing Club,Santander,22271,2010
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2010
+798,Mallorca,,https://media.api-sports.io/football/teams/798.png,Spain,FALSE,1916,Iberostar Estadi,grass,Camí dels Reis,Palma de Mallorca,23142,2010
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2010
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2010
+731,Sporting Gijon,,https://media.api-sports.io/football/teams/731.png,Spain,FALSE,1905,Estadio Municipal El Molinón,grass,Parque de Isabel la Católica,Gijón,29538,2010
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2010
+4666,Hércules,,https://media.api-sports.io/football/teams/4666.png,Spain,FALSE,1922,Estadio José Rico Pérez,grass,Carrer Camí de Ronda,Alicante,29584,2010
+4665,Racing Santander,,https://media.api-sports.io/football/teams/4665.png,Spain,FALSE,1913,Campos de Sport de El Sardinero,grass,Calle del Real Racing Club,Santander,22271,2011
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2011
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2011
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2011
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2011
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2011
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2011
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2011
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2011
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2011
+728,Rayo Vallecano,,https://media.api-sports.io/football/teams/728.png,Spain,FALSE,1924,Estadio de Vallecas,grass,Calle Payaso Fofó,Madrid,15500,2011
+798,Mallorca,,https://media.api-sports.io/football/teams/798.png,Spain,FALSE,1916,Iberostar Estadi,grass,Camí dels Reis,Palma de Mallorca,23142,2011
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2011
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2011
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2011
+732,Zaragoza,,https://media.api-sports.io/football/teams/732.png,Spain,FALSE,1932,Estadio de la Romareda,grass,Calle de Eduardo Ibarra 6,Zaragoza,34596,2011
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2011
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2011
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2011
+731,Sporting Gijon,,https://media.api-sports.io/football/teams/731.png,Spain,FALSE,1905,Estadio Municipal El Molinón,grass,Parque de Isabel la Católica,Gijón,29538,2011
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2020
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2020
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2020
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2020
+798,Mallorca,,https://media.api-sports.io/football/teams/798.png,Spain,FALSE,1916,Iberostar Estadi,grass,Camí dels Reis,Palma de Mallorca,23142,2020
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2020
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2020
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2020
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2020
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2020
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2020
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2020
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2020
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2020
+544,Deportivo La Coruna,,https://media.api-sports.io/football/teams/544.png,Spain,FALSE,1906,Estadio Abanca-Riazor,grass,Calle Manuel Murguía,La Coruña,34611,2020
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2020
+728,Rayo Vallecano,,https://media.api-sports.io/football/teams/728.png,Spain,FALSE,1924,Estadio de Vallecas,grass,Calle Payaso Fofó,Madrid,15500,2020
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2020
+732,Zaragoza,,https://media.api-sports.io/football/teams/732.png,Spain,FALSE,1932,Estadio de la Romareda,grass,Calle de Eduardo Ibarra 6,Zaragoza,34596,2020
+720,Valladolid,,https://media.api-sports.io/football/teams/720.png,Spain,FALSE,1928,Estadio Municipal José Zorrilla,grass,Avenida del Mundial 82,Valladolid,26512,2020
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2013
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2013
+720,Valladolid,,https://media.api-sports.io/football/teams/720.png,Spain,FALSE,1928,Estadio Municipal José Zorrilla,grass,Avenida del Mundial 82,Valladolid,26512,2013
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2013
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2013
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2013
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2013
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2013
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2013
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2013
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2013
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2013
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2013
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2013
+728,Rayo Vallecano,,https://media.api-sports.io/football/teams/728.png,Spain,FALSE,1924,Estadio de Vallecas,grass,Calle Payaso Fofó,Madrid,15500,2013
+797,Elche,,https://media.api-sports.io/football/teams/797.png,Spain,FALSE,1923,Estadio Manuel Martínez Valero,grass,Avenida Manuel Martínez Valero 3,Elche,36017,2013
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2013
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2013
+723,Almeria,,https://media.api-sports.io/football/teams/723.png,Spain,FALSE,1989,Estadio de los Juegos Mediterráneos,grass,Calle de Belladona,Almería,21350,2013
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2013
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2014
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2014
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2014
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2014
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2014
+544,Deportivo La Coruna,,https://media.api-sports.io/football/teams/544.png,Spain,FALSE,1906,Estadio Abanca-Riazor,grass,Calle Manuel Murguía,La Coruña,34611,2014
+723,Almeria,,https://media.api-sports.io/football/teams/723.png,Spain,FALSE,1989,Estadio de los Juegos Mediterráneos,grass,Calle de Belladona,Almería,21350,2014
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2014
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2014
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2014
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2014
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2014
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2014
+797,Elche,,https://media.api-sports.io/football/teams/797.png,Spain,FALSE,1923,Estadio Manuel Martínez Valero,grass,Avenida Manuel Martínez Valero 3,Elche,36017,2014
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2014
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2014
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2014
+713,Cordoba,,https://media.api-sports.io/football/teams/713.png,Spain,FALSE,1954,Estadio Nuevo Arcángel,grass,Avenida del Arcángel,Córdoba,21822,2014
+728,Rayo Vallecano,,https://media.api-sports.io/football/teams/728.png,Spain,FALSE,1924,Estadio de Vallecas,grass,Calle Payaso Fofó,Madrid,15500,2014
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2014
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2015
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2015
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2015
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2015
+544,Deportivo La Coruna,,https://media.api-sports.io/football/teams/544.png,Spain,FALSE,1906,Estadio Abanca-Riazor,grass,Calle Manuel Murguía,La Coruña,34611,2015
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2015
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2015
+534,Las Palmas,,https://media.api-sports.io/football/teams/534.png,Spain,FALSE,1949,Estadio de Gran Canaria,grass,Avenida Pío XII 29,Las Palmas de Gran Canaria,31250,2015
+728,Rayo Vallecano,,https://media.api-sports.io/football/teams/728.png,Spain,FALSE,1924,Estadio de Vallecas,grass,Calle Payaso Fofó,Madrid,15500,2015
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2015
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2015
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2015
+731,Sporting Gijon,,https://media.api-sports.io/football/teams/731.png,Spain,FALSE,1905,Estadio Municipal El Molinón,grass,Parque de Isabel la Católica,Gijón,29538,2015
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2015
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2015
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2015
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2015
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2015
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2015
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2015
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2016
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2016
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2016
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2016
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2016
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2016
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2016
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2016
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2016
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2016
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2016
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2016
+544,Deportivo La Coruna,,https://media.api-sports.io/football/teams/544.png,Spain,FALSE,1906,Estadio Abanca-Riazor,grass,Calle Manuel Murguía,La Coruña,34611,2016
+534,Las Palmas,,https://media.api-sports.io/football/teams/534.png,Spain,FALSE,1949,Estadio de Gran Canaria,grass,Avenida Pío XII 29,Las Palmas de Gran Canaria,31250,2016
+537,Leganes,,https://media.api-sports.io/football/teams/537.png,Spain,FALSE,1928,Estadio Municipal de Butarque,grass,Calle Arquitectura,Leganés,12450,2016
+542,Alaves,,https://media.api-sports.io/football/teams/542.png,Spain,FALSE,1921,Estadio de Mendizorroza,grass,Paseo de Cervantes,Vitoria-Gasteiz,19840,2016
+731,Sporting Gijon,,https://media.api-sports.io/football/teams/731.png,Spain,FALSE,1905,Estadio Municipal El Molinón,grass,Parque de Isabel la Católica,Gijón,29538,2016
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2016
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2016
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2016
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2017
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2017
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2017
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2017
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2017
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2017
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2017
+544,Deportivo La Coruna,,https://media.api-sports.io/football/teams/544.png,Spain,FALSE,1906,Estadio Abanca-Riazor,grass,Calle Manuel Murguía,La Coruña,34611,2017
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2017
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2017
+534,Las Palmas,,https://media.api-sports.io/football/teams/534.png,Spain,FALSE,1949,Estadio de Gran Canaria,grass,Avenida Pío XII 29,Las Palmas de Gran Canaria,31250,2017
+547,Girona,,https://media.api-sports.io/football/teams/547.png,Spain,FALSE,1930,Estadi Municipal de Montilivi,grass,Avenida Montlivi 141,Girona,14500,2017
+535,Malaga,,https://media.api-sports.io/football/teams/535.png,Spain,FALSE,1948,Estadio La Rosaleda,grass,Avenida de la Palmilla / Paseo de Martiricos,Málaga,30377,2017
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2017
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2017
+542,Alaves,,https://media.api-sports.io/football/teams/542.png,Spain,FALSE,1921,Estadio de Mendizorroza,grass,Paseo de Cervantes,Vitoria-Gasteiz,19840,2017
+537,Leganes,,https://media.api-sports.io/football/teams/537.png,Spain,FALSE,1928,Estadio Municipal de Butarque,grass,Calle Arquitectura,Leganés,12450,2017
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2017
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2017
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2017
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2018
+537,Leganes,,https://media.api-sports.io/football/teams/537.png,Spain,FALSE,1928,Estadio Municipal de Butarque,grass,Calle Arquitectura,Leganés,12450,2018
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2018
+542,Alaves,,https://media.api-sports.io/football/teams/542.png,Spain,FALSE,1921,Estadio de Mendizorroza,grass,Paseo de Cervantes,Vitoria-Gasteiz,19840,2018
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2018
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2018
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2018
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2018
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2018
+726,Huesca,,https://media.api-sports.io/football/teams/726.png,Spain,FALSE,1922,Estadio El Alcoraz,grass,Camino del Alto Cocorón,Huesca,7638,2018
+547,Girona,,https://media.api-sports.io/football/teams/547.png,Spain,FALSE,1930,Estadi Municipal de Montilivi,grass,Avenida Montlivi 141,Girona,14500,2018
+720,Valladolid,,https://media.api-sports.io/football/teams/720.png,Spain,FALSE,1928,Estadio Municipal José Zorrilla,grass,Avenida del Mundial 82,Valladolid,26512,2018
+728,Rayo Vallecano,,https://media.api-sports.io/football/teams/728.png,Spain,FALSE,1924,Estadio de Vallecas,grass,Calle Payaso Fofó,Madrid,15500,2018
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2018
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2018
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2018
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2018
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2018
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2018
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2018
+542,Alaves,,https://media.api-sports.io/football/teams/542.png,Spain,FALSE,1921,Estadio de Mendizorroza,grass,Paseo de Cervantes,Vitoria-Gasteiz,19840,2020
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2020
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2020
+797,Elche,,https://media.api-sports.io/football/teams/797.png,Spain,FALSE,1923,Estadio Manuel Martínez Valero,grass,Avenida Manuel Martínez Valero 3,Elche,36017,2020
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2020
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2020
+724,Cadiz,,https://media.api-sports.io/football/teams/724.png,Spain,FALSE,1910,Estadio Ramón de Carranza,grass,Plaza de Madrid,Cádiz,22000,2020
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2020
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2020
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2020
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2020
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2020
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2020
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2020
+720,Valladolid,,https://media.api-sports.io/football/teams/720.png,Spain,FALSE,1928,Estadio Municipal José Zorrilla,grass,Avenida del Mundial 82,Valladolid,26512,2020
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2020
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2020
+726,Huesca,,https://media.api-sports.io/football/teams/726.png,Spain,FALSE,1922,Estadio El Alcoraz,grass,Camino del Alto Cocorón,Huesca,7638,2020
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2020
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2020
+531,Athletic Club,,https://media.api-sports.io/football/teams/531.png,Spain,FALSE,1898,San Mamés Barria,grass,Rafael Moreno Pitxitxi Kalea,Bilbao,53289,2019
+529,Barcelona,,https://media.api-sports.io/football/teams/529.png,Spain,FALSE,1899,Camp Nou,grass,Carrer d&apos;Arístides Maillol,Barcelona,99787,2019
+538,Celta Vigo,,https://media.api-sports.io/football/teams/538.png,Spain,FALSE,1923,Abanca-Balaídos,grass,Avenida de Balaídos,Vigo,31800,2019
+541,Real Madrid,,https://media.api-sports.io/football/teams/541.png,Spain,FALSE,1902,Estadio Santiago Bernabéu,grass,"Avenida de Concha Espina 1, Chamartín",Madrid,85454,2019
+532,Valencia,,https://media.api-sports.io/football/teams/532.png,Spain,FALSE,1919,Estadio de Mestalla,grass,Avenida de Suecia,Valencia,55000,2019
+548,Real Sociedad,,https://media.api-sports.io/football/teams/548.png,Spain,FALSE,1909,Reale Arena,grass,Paseo de Anoeta 1,Donostia-San Sebastián,39500,2019
+537,Leganes,,https://media.api-sports.io/football/teams/537.png,Spain,FALSE,1928,Estadio Municipal de Butarque,grass,Calle Arquitectura,Leganés,12450,2019
+727,Osasuna,,https://media.api-sports.io/football/teams/727.png,Spain,FALSE,1920,Estadio El Sadar,grass,Carretera El Sadar,Iruñea,19800,2019
+533,Villarreal,,https://media.api-sports.io/football/teams/533.png,Spain,FALSE,1923,Estadio de la Cerámica,grass,Plaza Labrador,Villarreal,24500,2019
+715,Granada CF,,https://media.api-sports.io/football/teams/715.png,Spain,FALSE,1931,Estadio Nuevo Los Cármenes,grass,Calle Pintor Manuel Maldonado,Granada,23156,2019
+542,Alaves,,https://media.api-sports.io/football/teams/542.png,Spain,FALSE,1921,Estadio de Mendizorroza,grass,Paseo de Cervantes,Vitoria-Gasteiz,19840,2019
+539,Levante,,https://media.api-sports.io/football/teams/539.png,Spain,FALSE,1909,Estadio Ciudad de Valencia,grass,Calle San Vicente de Paúl 44,Valencia,25534,2019
+540,Espanyol,,https://media.api-sports.io/football/teams/540.png,Spain,FALSE,1900,RCDE Stadium,grass,Avenida Baix Llobregat 100,Cornella de Llobregat,40423,2019
+536,Sevilla,,https://media.api-sports.io/football/teams/536.png,Spain,FALSE,1890,Estadio Ramón Sánchez Pizjuán,grass,Avenida de Eduardo Dato,Sevilla,48649,2019
+530,Atletico Madrid,,https://media.api-sports.io/football/teams/530.png,Spain,FALSE,1903,Estadio Wanda Metropolitano,grass,Rosas,Madrid,68032,2019
+546,Getafe,,https://media.api-sports.io/football/teams/546.png,Spain,FALSE,1983,Coliseum Alfonso Pérez,grass,Avenida de Teresa de Calcuta,Getafe,17393,2019
+798,Mallorca,,https://media.api-sports.io/football/teams/798.png,Spain,FALSE,1916,Iberostar Estadi,grass,Camí dels Reis,Palma de Mallorca,23142,2019
+545,Eibar,,https://media.api-sports.io/football/teams/545.png,Spain,FALSE,1940,Estadio Municipal de Ipurúa,grass,Calle de Ipurúa,Eibar,8050,2019
+543,Real Betis,,https://media.api-sports.io/football/teams/543.png,Spain,FALSE,1907,Estadio Benito Villamarín,grass,Avenida de Heliópolis,Sevilla,60721,2019
+720,Valladolid,,https://media.api-sports.io/football/teams/720.png,Spain,FALSE,1928,Estadio Municipal José Zorrilla,grass,Avenida del Mundial 82,Valladolid,26512,2019
+98,Ajaccio,,https://media.api-sports.io/football/teams/98.png,France,FALSE,1910,Stade François Coty,grass,"Ancienne route de Sartène, Zone Industrielle du Vazzio",Ajaccio,10660,2011
+96,Toulouse,TOU,https://media.api-sports.io/football/teams/96.png,France,FALSE,1937,Stadium de Toulouse,grass,"1, allée Gabriel Biènés",Toulouse,33150,2011
+106,Stade Brestois 29,,https://media.api-sports.io/football/teams/106.png,France,FALSE,1950,Stade Francis-Le Blé,grass,"26, rue de Quimper",Brest,15931,2011
+3006,Evian TG,,https://media.api-sports.io/football/teams/3006.png,France,FALSE,1924,Parc des Sports,grass,Rue Pierre de Coubertin,Annecy,15660,2011
+88,Caen,CAE,https://media.api-sports.io/football/teams/88.png,France,FALSE,1897,Stade Michel d'Ornano,grass,Boulevard Georges Pompidou,Caen,20453,2011
+105,Valenciennes,,https://media.api-sports.io/football/teams/105.png,France,FALSE,1913,Stade du Hainaut,grass,Nungesser,Valenciennes,24926,2011
+81,Marseille,OLM,https://media.api-sports.io/football/teams/81.png,France,FALSE,1899,Orange Vélodrome,grass,"3, boulevard Michelet",Marseille,67394,2011
+115,Sochaux,,https://media.api-sports.io/football/teams/115.png,France,FALSE,1928,Stade Auguste-Bonal,grass,Impasse de la Forge,Montbéliard,20005,2011
+82,Montpellier,MPL,https://media.api-sports.io/football/teams/82.png,France,FALSE,1974,Stade de la Mosson,grass,Avenue de Heidelberg,Montpellier,32939,2011
+108,Auxerre,,https://media.api-sports.io/football/teams/108.png,France,FALSE,1905,Stade de l'Abbé Deschamps,grass,Route de Vaux,Auxerre,23467,2011
+102,Nancy,,https://media.api-sports.io/football/teams/102.png,France,FALSE,1967,Stade Marcel-Picot,grass,"90, boulevard Jean-Jaurès",Tomblaine,20087,2011
+79,Lille,LIL,https://media.api-sports.io/football/teams/79.png,France,FALSE,1944,Stade Pierre-Mauroy,grass,"261, Boulevard de Tournai, l&apos;Hôtel de Ville",Villeneuve d&apos;Ascq,50083,2011
+84,Nice,NCE,https://media.api-sports.io/football/teams/84.png,France,FALSE,1904,Allianz Riviera,grass,Boulevard des Jardiniers,Nice,35624,2011
+80,Lyon,LYO,https://media.api-sports.io/football/teams/80.png,France,FALSE,1950,Groupama Stadium,grass,Chemin du Montout,Décines-Charpieu,59186,2011
+85,Paris Saint Germain,PSG,https://media.api-sports.io/football/teams/85.png,France,FALSE,1970,Parc des Princes,grass,"24, rue du Commandant Guilbaud",Paris,47929,2011
+97,Lorient,,https://media.api-sports.io/football/teams/97.png,France,FALSE,1926,Stade Yves Allainmat - Le Moustoir,artificial turf,"11, rue Jean Le Coutaller",Lorient,18970,2011
+89,Dijon,DIJ,https://media.api-sports.io/football/teams/89.png,France,FALSE,1936,Stade Gaston-Gérard,grass,Rue du Stade,Dijon,16098,2011
+94,Rennes,REN,https://media.api-sports.io/football/teams/94.png,France,FALSE,1901,Roazhon Park,grass,"111, route de Lorient",Rennes,31127,2011
+78,Bordeaux,BOR,https://media.api-sports.io/football/teams/78.png,France,FALSE,1881,Stade Matmut-Atlantique,grass,Cours Jules Ladoumegue,Bordeaux,42115,2011
+1063,Saint Etienne,STE,https://media.api-sports.io/football/teams/1063.png,France,FALSE,1920,Stade Geoffroy-Guichard,grass,"14, rue Pierre et Paul Guichard",Saint-Ètienne,41965,2011
