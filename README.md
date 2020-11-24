@@ -24,7 +24,7 @@ ponts at the end of the season winning the league title. Using the 2013-2014 top
 as a becnhmark across five leagues, the below graph is PSG’s total points versus the top 4<br> 
 competitors in each of the English, French, Spanish, German and Italian leagues.<br>
 
-!(/png-file/team_wins.png)
+![team_wins](/png-file/team_wins.png)
 
 
 Goal differential data is an important indicator of how well a team is performing. A team<br> 
@@ -35,7 +35,7 @@ games by a lot larger margins than what its peers are doing. This demonstrates t
 that the team that PSG has put together is significantly more competitive and productive than<br> 
 the rest.<br>
 
-!(/png-file/goal_differential.png)
+![goal_differential](/png-file/goal_differential.png)
 
 
 
