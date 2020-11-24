@@ -35,7 +35,7 @@ games by a lot larger margins than what its peers are doing. This demonstrates t
 that the team that PSG has put together is significantly more competitive and productive than<br> 
 the rest.<br>
 
-![goal_differential](/png-file/goal_differential.png)
+![goal_differential](https://github.com/buritica97/project_one/blob/main/png_file/goal_differential.png)
 
 
 
