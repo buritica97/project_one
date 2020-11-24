@@ -15,7 +15,7 @@ accelerating uptick in the amount of points that PSG is winning.  Interestingly,
 seem to have up and down seasons where PSG has been able to maintain a steady top level of<br> 
 performance.<br>
 
-!(/png-file/total_points.png)
+![total_points](/png-file/total_points.png)
 
 Across European Soccer leagues, the winner of a given league is the team that collects the<br>
 most points after playing a season (38 games) against it’s competitors. Three points are<br> 
